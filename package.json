@@ -1,0 +1,10 @@
+{
+  "name": "socketio_sample",
+  "description": "Socket.io sample chat app",
+  "version": "0.0.1",
+  "private": false,
+  "dependencies": {
+    "express": "3.4.x",
+    "socket.io": "0.9.x",
+  }
+}
