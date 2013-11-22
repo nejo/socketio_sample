@@ -1,8 +1,18 @@
 {
-  "name": "socketio_sample",
+  "name": "socketio-sample",
   "description": "Socket.io sample chat app",
+  "author": "Alejandro Cornejo <acornejovila@gmail.com>,
+  "license": "MIT",
   "version": "0.0.1",
-  "private": false,
+  "preferGlobal": true,
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nejo/socketio_sample.git"
+  },
+  "keywords": [
+    "socket.io sample",
+    "socketio sample"
+  ],
   "dependencies": {
     "express": "3.4.x",
     "socket.io": "0.9.x"
